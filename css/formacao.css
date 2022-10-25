@@ -99,6 +99,14 @@
   margin-bottom: 30px;
   position: relative;
 }
+.cursos p {
+  margin-left: -400px;
+  color: #9B30F9;
+}
+.cursos .gc{
+  margin-left: -270px;
+  color: #FB9A26;
+}
 
 .formacao-extra h3::before {
   display: block;
@@ -142,6 +150,12 @@
   .formacao .subtitulo {
     color: #ffffff;
   }
+  .formacao-extra .cursos p{
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0 10px;
+  }
+
   .formacao-texto {
     font-size: 1.25rem;
   }
